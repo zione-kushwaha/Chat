@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490291563431",
+    "project_id": "chatting-4bfac",
+    "storage_bucket": "chatting-4bfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490291563431:android:45420ffc2ae2c5b6ed0482",
+        "android_client_info": {
+          "package_name": "com.example.learning1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8H_Tea3FQQNtUZm0t02GrDYsiV_XN6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
