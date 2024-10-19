@@ -1,16 +1,27 @@
-# learning1
+# Chat Application
 
-A new Flutter project.
+This is a simple chat application where users can register, log in, and chat with each other. This project is a practice project for using Firebase and Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Registration
+- User Login
+- Real-time Chatting
+- Profile Picture Upload
+- Read Receipts
+- Audio and Video Calls
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](ScreenShots/screenShot1.jpg)
+![Screenshot 2](ScreenShots/screenShot2.jpg)
+![Screenshot 3](ScreenShots/screenShot3.jpg)
+![Screenshot 4](ScreenShots/screenShot4.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/yourusername/chatting.git
+   cd chatting
